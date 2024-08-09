@@ -1,4 +1,5 @@
 # PRODIGY_WD_02
+
 ---
 
 # Stopwatch Web Application
@@ -64,6 +65,7 @@ This project is open-source and available under the [MIT License](https://openso
 
 ## Deployment 
 https://dharani-arumugam26.github.io/PRODIGY_WD_02/
+
 
 ---
 
