@@ -63,7 +63,7 @@ To use this Stopwatch application, you can simply download the files and open th
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this code as you wish.
 
 ## Deployment 
-
+https://dharani-arumugam26.github.io/PRODIGY_WD_02/
 
 ---
 
